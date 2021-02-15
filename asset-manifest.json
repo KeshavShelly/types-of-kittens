@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/types-of-languages/static/css/main.c9b55ae6.chunk.css",
+    "main.js": "/types-of-languages/static/js/main.d72b09f7.chunk.js",
+    "main.js.map": "/types-of-languages/static/js/main.d72b09f7.chunk.js.map",
+    "runtime-main.js": "/types-of-languages/static/js/runtime-main.0a4a64aa.js",
+    "runtime-main.js.map": "/types-of-languages/static/js/runtime-main.0a4a64aa.js.map",
+    "static/js/2.95745b7c.chunk.js": "/types-of-languages/static/js/2.95745b7c.chunk.js",
+    "static/js/2.95745b7c.chunk.js.map": "/types-of-languages/static/js/2.95745b7c.chunk.js.map",
+    "static/js/3.5c1314e5.chunk.js": "/types-of-languages/static/js/3.5c1314e5.chunk.js",
+    "static/js/3.5c1314e5.chunk.js.map": "/types-of-languages/static/js/3.5c1314e5.chunk.js.map",
+    "index.html": "/types-of-languages/index.html",
+    "static/css/main.c9b55ae6.chunk.css.map": "/types-of-languages/static/css/main.c9b55ae6.chunk.css.map",
+    "static/js/2.95745b7c.chunk.js.LICENSE.txt": "/types-of-languages/static/js/2.95745b7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/types-of-languages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a4a64aa.js",
+    "static/js/2.95745b7c.chunk.js",
+    "static/css/main.c9b55ae6.chunk.css",
+    "static/js/main.d72b09f7.chunk.js"
+  ]
+}
